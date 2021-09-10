@@ -1,0 +1,170 @@
+---
+title: "Magrit, un logiciel libre de cartographie en ligne"
+date: "[Tuto@Mate](https://mate-shs.cnrs.fr/actions/tutomate/tuto36-magrit-timothee-giraud/) - 14/09/2021"
+author: "Timothée Giraud </br></br> ![](img/logocnrs.svg)       ![](img/logo_RIATE.png)</br>"
+output: 
+  ioslides_presentation: 
+    css: libs/style.css
+    self_contained: yes
+    widescreen: yes
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Une application de cartographie thématique
+
+![](img/chaine.png)
+
+## Une application de cartographie thématique
+
+### Magrit a été conçu pour l'enseignement de la cartographie. 
+### Magrit est adapté à une utilisation professionnelle. 
+### Magrit est compatible avec d'autres outils (interopérabilité).
+### La prise en main de l'application est simple.
+
+## 
+
+<center> ![](img/logo_univ.png) </center>
+
+## Des représentations classiques
+
+![](img/rep_class.png)
+
+## Des représentations combinées
+
+![](img/rep_comb.png)
+
+
+## Des représentations "avancées"
+
+![](img/rep_av1.png)
+
+## Des représentations "avancées"
+
+![](img/rep_av2.png)
+
+
+
+
+## Une application libre
+Magrit est un projet libre sous licence CeCILL.   
+
+![](img/cecill.png)  
+**Ce**a **C**NRS **I**nria **L**ogiciel **L**ibre  <font size="2">https://cecill.info/</font>  
+
+Ouvert aux contributions, son code source est disponible sur [GitHub](https://github.com/riatelab/magrit).   
+
+[![](img/gh.png)](https://github.com/riatelab/magrit)  
+
+
+## Une application en ligne
+Magrit s'utilise **directement dans le navigateur** (Firefox, Chrome, Opera...) et donc avec n'importe quel système d'exploitation (Linux, Windows, macOS...). 
+
+![](img/online.png)
+
+## Autour de Magrit
+Magrit dispose d'une [documentation complète](http://magrit.cnrs.fr/docs/) en français.  
+
+![](img/doc.png)
+
+## Autour de Magrit
+Un [carnet de recherche](https://magrit.hypotheses.org/) sur la plateforme hypotheses.  
+
+![](img/blog.png)
+
+
+## Une application multilingue
+Magrit est disponible en français, en anglais et en espagnol.   
+
+![](img/langue.png)
+
+
+## La chaîne de traitement
+
+Les menus de l'application suivent les étapes d'une chaine de traitement de l'information géographique
+
+<img src="img/menus.png" width=800px />  
+
+## Import des données
+
+<img src="img/import.png" width=800px />  
+
+
+## Typage des données 
+Le typage des données détermine les choix de représentations cartographiques. 
+
+![](img/typage.png)
+
+## Typage des données 
+![](img/vv.png)
+
+
+
+## Traitements, analyses
+
+![](img/ana.png)
+
+
+## Représentation
+
+![](img/choix.png)
+
+
+
+
+## {data-background=img/i1.png data-background-size=768px}
+
+## {data-background=img/i2.png data-background-size=768px}
+
+## {data-background=img/i3.png data-background-size=768px}
+
+## {data-background=img/i4.png data-background-size=768px}
+
+## {data-background=img/i5.png data-background-size=contain}
+
+## {data-background=img/i6.png data-background-size=800px}
+
+## {data-background=img/i7.png data-background-size=768px}
+
+## {data-background=img/i8.png data-background-size=768px}
+
+## {data-background=img/i9.png data-background-size=800px}
+
+## Mise en page
+
+![](img/mep.png)
+![](img/chaine3.png)
+
+## Mise en page
+
+![](img/hab.png)
+
+## Export
+![](img/export1.png)
+
+## Export
+![](img/export2.png)
+
+## Export
+![](img/export3.png)
+
+## Export
+![](img/export4.png)
+
+## À vous !
+</br></br>
+<center>
+[<img src="img/logo_magrit.png" width=403px />](http://magrit.cnrs.fr)
+</br>
+[magrit.cnrs.fr](htpp://magrit.cnrs.fr)
+</center>
+</br>
+<img src="img/ghlogo.png" width=50px /> [github.com/riatelab/magrit](https://github.com/riatelab/magrit)         
+<img src="img/prlogo.png" width=50px /> [rcarto.github.io/magrit_mate](https://rcarto.github.io/magrit_mate/)  
+<img src="img/hylogo.png" width=50px /> [rgeomatic.hypotheses.org](https://rgeomatic.hypotheses.org/)  
+<img src="img/twlogo.png" width=50px /> [\@rgeomatic](http://twitter.com/rgeomatic)    
