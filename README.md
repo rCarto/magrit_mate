@@ -1,4 +1,4 @@
-# [Magrit, un logiciel libre de cartographie en ligne](http://rcarto.github.io/magrit_mate/)
+# [Magrit, un logiciel libre de cartographie en ligne](https://rcarto.github.io/magrit_mate/)
 *Timothée Giraud*
 
 Presentation de [Magrit](http://magrit.cnrs.fr) au séminaire de méthodes [Tuto@Mate]((https://mate-shs.cnrs.fr/actions/tutomate/tuto36-magrit-timothee-giraud/)) le 14 septembre 2021.
@@ -10,7 +10,7 @@ Ce webinar permet de découvrir les différentes fonctionnalités de ce logiciel
 
 
 
-* [La présentation](http://rcarto.github.io/magrit_mate/)
+* [La présentation](https://rcarto.github.io/magrit_mate/)
 * [Magrit](http://magrit.cnrs.fr)
 * [Les Tuto@Mate](https://mate-shs.cnrs.fr/actions/tutomate/)
 
