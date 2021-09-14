@@ -165,12 +165,12 @@ Le typage des données détermine les choix de représentations cartographiques.
 </center>
 </br>
 <img src="img/ghlogo.png" width=50px /> [github.com/riatelab/magrit](https://github.com/riatelab/magrit)         
-<img src="img/prlogo.png" width=50px /> [rcarto.github.io/magrit_mate](https://rcarto.github.io/magrit_mate/)  
+<img src="img/prlogo.png" width=50px /> [rcarto.github.io/magrit_mate](https://rcarto.github.io/magrit_mate/) (<font size=2>sources : </font>[<img src="img/ghlogo.png" width=25px />](https://github.com/rcarto/magrit_mate))  
 <img src="img/hylogo.png" width=50px /> [rgeomatic.hypotheses.org](https://rgeomatic.hypotheses.org/)  
 <img src="img/twlogo.png" width=50px /> [\@rgeomatic](http://twitter.com/rgeomatic)    
 
 
-## Bibliophie indicative 
+## Bibliographie indicative 
 <div class="columns-2">
 <img src="img/BP.jpg" width="200px"/>  
 BEGUIN Michèle, PUMAIN Denise  
