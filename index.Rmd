@@ -168,3 +168,18 @@ Le typage des données détermine les choix de représentations cartographiques.
 <img src="img/prlogo.png" width=50px /> [rcarto.github.io/magrit_mate](https://rcarto.github.io/magrit_mate/)  
 <img src="img/hylogo.png" width=50px /> [rgeomatic.hypotheses.org](https://rgeomatic.hypotheses.org/)  
 <img src="img/twlogo.png" width=50px /> [\@rgeomatic](http://twitter.com/rgeomatic)    
+
+
+## Bibliophie indicative 
+<div class="columns-2">
+<img src="img/BP.jpg" width="200px"/>  
+BEGUIN Michèle, PUMAIN Denise  
+**La représentation des données géographiques, Statistique et cartographie**,  
+col. Cursus, Armand Colin, 2014.
+
+<img src="img/LZ.jpeg" width=200px />   
+LAMBERT Nicolas, ZANIN Christine
+**Manuel de cartographie. Principes méthodes, applications**,   
+col. Cursus, Armand Colin, 2016.
+
+</div>
